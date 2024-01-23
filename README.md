@@ -3,7 +3,7 @@ The objective of this project is to achieve precise trajectory tracking for a gr
 
 ## Results:
 Results for Rh-CEC are shown below:
-![Rh-CEC error 460](/Rhcec_gifs/.RhCEC_error_460.gif)
+![Rh-CEC error 460](/Rhcec_gifs/RhCEC_error_460.gif)
 
 ## Runnning code:
 Files: utils.py, main3.py, GPI.py <br>
