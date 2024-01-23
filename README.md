@@ -7,7 +7,7 @@ Dependencies: Python3, numpy, casadi, time  <br>
 Running Rh-CEC:
 1. Open main3.py
 2. Edit the design parameters from line 196 onwards.
-3. Run main3.py
+3. Run main3.py <br>
 Output gifs: ./Rhcec_gifs
 
 
