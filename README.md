@@ -5,7 +5,7 @@ The objective of this project is to achieve precise trajectory tracking for a gr
 Results for Rh-CEC are shown below: <br> <br>
 ![Rh-CEC error 460](/Rhcec_gifs/RhCEC_error_460.gif)
 <br>
-**PS**: The trajectory is not so accurate, needs better implementation. Also Generalized Policy Iteration (GPI) needs to be optimized to produce results.
+**PS**: The trajectory tracking is not very accurate and hence needs better implementation. Also Generalized Policy Iteration (GPI) needs to be optimized to produce results.
 
 ## Runnning code:
 Files: utils.py, main3.py, GPI.py <br>
