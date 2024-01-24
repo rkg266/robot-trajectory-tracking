@@ -21,4 +21,4 @@ Output gifs: ./Rhcec_gifs
 Running GPI:
 1. Run GPI.py 
 
-**For complete details about implementation, refer Project_report.pdf**
+**For complete details about implementation, contact rkg266**
